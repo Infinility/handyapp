@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HandyApp</string>
+
+    <string name="news_api_key">b6ce7e9957fb4cf69174f0b467a7e168</string>
+    <string name="news_api_attr">Powered by newsapi.org</string>
+
+
+</resources>
